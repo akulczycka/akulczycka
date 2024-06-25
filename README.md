@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aleksandra</h1>
 <h3 align="center">A student by day ☼ and a book lover by night ☾</h3>
 
-I am a dual degree Data Science and Cognitive Science student with a strong background in computer science 💻 and experience in data analysis, machine learning and the application of statistical methods to complex problems.
+I am a dual degree Data Science and Cognitive Science student with a strong background in computer science and experience in data analysis, machine learning and application of statistical methods to solve data problems.
 - 🌱 I’m currently learning neural networks and evolutionary algorithms for my thesis.
 - ⭐ I work on improving my skills in free time.
 - ⚡ Fun fact about me is I still believe I will become a mermaid one day
