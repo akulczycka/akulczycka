@@ -1,10 +1,12 @@
 <h1 align="center">Hi 👋, I'm Aleksandra</h1>
 <h3 align="center">A student by day ☼ and a book lover by night ☾</h3>
 
-I am a dual degree Data Science and Cognitive Science student with a strong background in computer science and experience in data analysis, machine learning and application of statistical methods to solve data problems.
-- 🌱 I’m currently learning neural networks and evolutionary algorithms for my thesis.
-- ⭐ I work on improving my skills in free time.
-- 📫 How to reach me: [akulczycka@icloud.com](mailto:akulczycka@icloud.com?)
+I am a Master's student in Data Science at Warsaw University of Technology.
+
+- 🎓 My thesis, *"From Primordial Soup to Artificial Intelligence – Evolution of Life,"* explored the evolution of virtual organisms using neural networks and evolutionary algorithms.  
+- 💼 I'm currently working as a Data Analyst at **Allegro**.  
+- ⭐ In my free time, I’m focused on expanding my skills. 
+- 📫 You can reach me at [akulczycka@icloud.com](mailto:akulczycka@icloud.com)
 
 
 
