@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aleksandra</h1>
-<h3 align="center">A student by day ☼ and a book lover by night ☾</h3>
+
 
 I am a Master's student in Data Science at Warsaw University of Technology.
 
